@@ -2,7 +2,7 @@
 import moment from 'moment';
 const Header = () => {
   return (
-    <div>
+    <div className=' text-center'>
       <div>
         <h1 className=" text-7xl m-4 font-bold ">The Guardian BD News</h1>
       </div>
