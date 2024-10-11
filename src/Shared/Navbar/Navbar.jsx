@@ -63,7 +63,7 @@ const Navbar = () => {
             src="https://i.ibb.co.com/jWykYcJ/IMG-20241005-WA0000.jpg" />
         </div>
       </div>
-        <Link>
+        <Link to='/login'>
           <button className="btn">Login</button>
         </Link>
       </div>
